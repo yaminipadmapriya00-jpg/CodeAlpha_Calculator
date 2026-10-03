@@ -1,5 +1,6 @@
-# Calculator
-# Calculator
+# CodeAlpha Calculator
+
+[🚀 Live Demo](https://yaminipadm...-jpg.github.io/CodeAlpha_Calculator/)
 
 A simple calculator web application built using HTML, CSS, and JavaScript as part of my CodeAlpha Frontend Development Internship.
 
